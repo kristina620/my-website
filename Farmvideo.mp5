@@ -1,0 +1,15 @@
+HTML
+<section style="text-align:center; padding:30px;">
+<img src="logo.png" width="150">
+
+<h1>KP Fresh Pig & Poultry Farm</h1>
+<p>Fresh, Healthy and Organic Products</p>
+
+<img src="pig.jpg" width="100%" style="border-radius:10px;">
+
+<br><br>
+
+<video width="100%" controls autoplay muted>
+<source src="farmvideo.mp4" type="video/mp4">
+</video>
+</section>
